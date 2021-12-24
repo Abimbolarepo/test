@@ -1,0 +1,22 @@
+git brgit is a version control system
+
+git config --global user.name "abimbola Samuel"
+git config --global user.email falopeabimbola5@gmail.com
+
+code file - enter the code
+mkdir project
+cd project
+git init
+git status -s - see the status of the file
+git add file1 - add the file to the stagging 
+git log - view who added the file
+git commit file1 -m "my first very commit" - commit the file of code
+git ls-files list files in the working directory
+git rm file.txt- to delete a file from WD and staging
+git log --oneline
+git show
+Git clone
+Git branch - to see the available branch
+Git checkout -b  Abimbola - to create Abimbola branch and switch to the branch
+Git checkout main - to switch to main branch
+Fork someone repository and create a pull request
